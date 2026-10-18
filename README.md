@@ -115,7 +115,6 @@ Backend-разработчик, ориентированный на создан
 
 ## 📫 Контакты
 
-- Telegram: [`@press_f_for_respect`](https://t.me/press_f_for_respect)
 - Email: [`danilzhyoltikov@yandex.ru`](mailto:danilzhyoltikov@yandex.ru)
 
 ---
